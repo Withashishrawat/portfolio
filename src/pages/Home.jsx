@@ -15,8 +15,8 @@ const Home = () => {
           <p className="hero-desc">
             I build fast, scalable and modern web applications using
             <strong> React</strong>, <strong>Next.js</strong>,{" "}
-            <strong>Node.js</strong>, <strong>TypeScript</strong> and
-            cloud-native tools.
+            <strong>Node.js</strong>, <strong>Express.js</strong>,
+            <strong>TypeScript</strong> and cloud-native tools.
           </p>
 
           <div className="hero-buttons">
