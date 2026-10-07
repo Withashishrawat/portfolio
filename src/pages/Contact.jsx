@@ -35,7 +35,10 @@ const Contact = () => {
 
         <div className="contact-grid">
           <div className="contact-info">
-            <a href="mailto:ashish@example.com" className="contact-item">
+            <a
+              href="mailto:call.ashishrawat@gmail.com"
+              className="contact-item"
+            >
               <FaEnvelope />
               <div>
                 <h4>Email</h4>

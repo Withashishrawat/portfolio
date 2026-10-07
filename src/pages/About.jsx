@@ -6,7 +6,7 @@ const About = () => {
       icon: <FaCode />,
       title: "Clean Code",
       desc: "Writing maintainable, scalable and well-tested code.",
-    },
+    }, 
     {
       icon: <FaRocket />,
       title: "Fast Delivery",
