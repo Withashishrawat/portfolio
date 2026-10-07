@@ -72,9 +72,9 @@ const Home = () => {
   role: "Full Stack Dev",
   skills: [
     "React", "Next.js",
-    "Node.js", "TypeScript"
+    "Express.js", "Node.js", "TypeScript"
   ],
-  databases: ["MongoDB", "SQL"],
+  databases: ["MongoDB", "SQL", "Redis", "PostgreSQL"],
   passion: "Building cool stuff"
 };`}
             </pre>
